@@ -1,6 +1,15 @@
 ## Hi there 👋
-# 💫 About Me:
-🔭 I’m currently working on: Developing a credit card fraud detection system using Django and PostgreSQL.<br>👯 I’m looking to collaborate on: Information Security research or ASP.NET Core development.<br>🤝 I’m looking for help with: Advanced Django configurations and any Python projects.<br>🌱 I’m currently learning: Advanced Python and Django, Linux, CI/CD.<br>💬 Ask me about: Information Security, Python, Django development.<br>⚡ Fun fact: I can code in Python programming language and love exploring cybersecurity and code challenges.
+# 💫 About Me
+
+I am an Information Security (DGKA) graduate with a strong focus on software development.  
+I specialize in Python full-stack development and work with data-driven and artificial intelligence–related projects.
+
+My interests include building secure backend systems, working with databases, and applying AI concepts to real-world problems.  
+I continuously improve my skills in Python, web development, Linux, and modern development workflows.
+
+💬 Areas I work with: Information Security, Python, Full-Stack Development, AI & Data  
+⚡ I enjoy combining security knowledge with clean, practical code.
+
 
 
 ## 🌐 Socials:
